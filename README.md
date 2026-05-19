@@ -198,9 +198,14 @@ Or simply drag `index.html` into any browser — it works instantly.
 
 ---
 
+## License
+
+This project is licensed under a Proprietary License - see the [LICENSE](LICENSE) file for details.
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0d1a3a,100:030509&height=130&section=footer&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,4:0d1a3a,100:030509&height=130&section=footer&animation=twinkling" width="100%"/>
 
 **Develop with ❤️ by [Muhammad Yasir](https://yasirawan4831.github.io/futuristic-links-dashboard/)**
 
@@ -215,3 +220,6 @@ Or simply drag `index.html` into any browser — it works instantly.
 ⭐ **Star this repo if you found it useful!** ⭐
 
 </div>
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,50:0d1a3a,100:030509&height=130&section=footer&animation=twinkling" width="100%"/>
