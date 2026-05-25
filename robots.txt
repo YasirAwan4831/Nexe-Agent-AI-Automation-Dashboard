@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yasirawan4831.github.io/futuristic-links-dashboard/sitemap.xml
