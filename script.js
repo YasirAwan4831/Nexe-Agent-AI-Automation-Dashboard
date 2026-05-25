@@ -13,9 +13,9 @@
 const OWNER = {
   name:       'Muhammad Yasir',
   role:       'AI & Automation Developer',
-  internship: 'Nest-Agent AI Internship · 2026',
+  internship: 'Nest-Agent AI Automation Internship · 2026',
   tagline:    '6 Real-World <strong>AI Projects</strong> built during my Internship —<br/>From Chatbots to RAG Systems, from Email Automation to AI Agents.',
-  tags:       ['🤖 AI / ML', '🐍 Python', '🔗 LangChain', '📧 Automation', '🧠 RAG', '⚡ Agents'],
+  tags:       ['🤖 AI/ML', '🐍 Python', '🔗 LangChain', '📧 Email Automation', '🧠 RAG', '📲 Twilio', '⚡ AI Agents'],
   portfolio:  'https://yasirawan4831.github.io/futuristic-links-dashboard/',
   github:     'https://github.com/YasirAwan4831',
   linkedin:   'https://linkedin.com/in/yasirawan4831',
@@ -494,13 +494,13 @@ function buildNavbar() {
   nav.innerHTML = `
     <div class="ya-nav-brand">
       <span class="ya-brand-dot"></span>
-      <span>MY<span class="ya-brand-accent">.</span>AI</span>
+      <span>&lt; YARIS<span class="ya-brand-accent">.AI </span>/&gt;</span>
     </div>
     <div class="ya-nav-center">
       ${NAV_LINKS.map(l => `<a href="${l.href}" class="ya-nav-link">${l.label}</a>`).join('')}
     </div>
     <button class="ya-theme-btn" id="ya-theme-btn" aria-label="Toggle theme">
-      <span id="ya-toggle-icon">☀️</span>
+      <span id="ya-toggle-icon"></span>
     </button>
   `;
   return nav;
@@ -620,7 +620,7 @@ function buildFooter() {
   footer.className = 'ya-footer';
   footer.innerHTML = `
     <span>Developed ❤️ By <strong>${OWNER.name}</strong> · ${OWNER.internship}</span>
-    <span>© 2026</span>
+    <span>© 2026 All Rights Reserved</span>
   `;
   return footer;
 }
@@ -879,13 +879,13 @@ function initNavbarScroll() {
    12.  CLICK PARTICLE BURST
    ════════════════════════════════════════════ */
 function initParticleBurst() {
-  const colors = ['#00f0ff','#0088ff','#bf8bff','#00ffaa','#ffcc00'];
+  const colors = ['#00f0ff','#0088ff','#f70202','#00ffaa','#ffcc00'];
   document.addEventListener('click', e => {
     if (e.target.closest('a') || e.target.closest('button')) return;
-    for (let i=0; i<10; i++) {
+    for (let i=0; i<50; i++) {
       const dot   = document.createElement('div');
       const angle = Math.random() * Math.PI * 2;
-      const dist  = Math.random() * 55 + 28;
+      const dist  = Math.random() * 55 + 58;
       const dur   = Math.random() * 480 + 380;
       const color = colors[Math.floor(Math.random()*colors.length)];
       Object.assign(dot.style, {

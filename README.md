@@ -58,9 +58,9 @@ The project is also a technical statement in itself — the entire UI is generat
 | 01 | **Basic AI Chatbot** — Multi-turn dialogue with context memory | Python · OpenAI API · Flask | [→ Repo](https://github.com/YasirAwan4831/yaris-ai-internship-chatbot) |
 | 02 | **Email Automation** — Gmail API with OAuth 2.0 scheduling | Python · Gmail API · OAuth 2.0 | [→ Repo](https://github.com/YasirAwan4831/ai-email-automation-python-internship) |
 | 03 | **Resume Scanner AI** — CV vs JD scoring with NLP | Python · NLP · OpenAI · PyPDF2 | [→ Repo](https://github.com/YasirAwan4831/resume-screener-ai-internship-project-three) |
-| 04 | **WhatsApp Automation** — Bulk messaging & scheduled replies | Python · Twilio · pywhatkit | [→ Repo](YOUR_GITHUB_REPO_4) |
-| 05 | **Multi-Tool AI Agent** ⭐ — Autonomous agent with tools | LangChain · Python · OpenAI | [→ Repo](YOUR_GITHUB_REPO_5) |
-| 06 | **RAG Knowledge System** ⭐ — Document Q&A with embeddings | LangChain · ChromaDB · FAISS | [→ Repo](YOUR_GITHUB_REPO_6) |
+| 04 | **WhatsApp Automation** — Bulk messaging & scheduled replies | Python · Twilio · pywhatkit | [→ Repo](https://github.com/YasirAwan4831/whatsapp-automation-system-bot) |
+| 05 | **Multi-Tool AI Agent** ⭐ — Autonomous agent with tools | LangChain · Python · OpenAI | [→ Repo](https://github.com/YasirAwan4831/nexeagent-multi-tool-ai-agent) |
+| 06 | **RAG Knowledge System** ⭐ — Document Q&A with embeddings | LangChain · ChromaDB · FAISS | [→ Repo](https://github.com/YasirAwan4831/nexeagent-rag-based-knowledge-assistant) |
 
 ---
 
