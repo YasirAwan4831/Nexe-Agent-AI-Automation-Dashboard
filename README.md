@@ -46,7 +46,7 @@ The project is also a technical statement in itself — the entire UI is generat
 ## 🌐 Live Demo
 
 ```
-🔗 YOUR_PORTFOLIO_LIVE_LINK_HERE
+🔗 https://yasirawaninfo-ai.vercel.app/
 ```
 
 ---
