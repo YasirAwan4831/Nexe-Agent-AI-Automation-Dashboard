@@ -120,8 +120,8 @@ const PROJECTS = [
     techs: ['LangChain', 'ChromaDB', 'OpenAI', 'FAISS'],
     repo:     'https://github.com/YasirAwan4831/nexeagent-rag-based-knowledge-assistant',
     live:     'https://github.com/YasirAwan4831/nexeagent-rag-based-knowledge-assistant',
-    linkedin: 'YOUR_LINKEDIN_POST_6',
-    article:  'YOUR_ARTICLE_6',
+    linkedin: 'https://www.linkedin.com/posts/yasirawan4831_rag-keyabrhighlights-techabrstack-activity-7464910389168852992-v_BB?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFyt-1EB5XKMOcxukQpAzVmx6pIKiXdCz64',
+    article:  'https://x.com/YasirAwan4831/status/2059145987286077876',
   },
 ];
 
