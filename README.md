@@ -1,11 +1,10 @@
-<div align="center">
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:03050,0:0d1a3a,100:00f0ff&height=290&section=header&text=AI-Automation-%20Internship%20Dashboard&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Muhammad%20Yasir%80%7C%90Nest-Agent%20%7C%20May-2026&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030509,50:0d1a3a,100:00f0ff&height=290&section=header&text=AI-Automation-Internship%20Dashboard&fontSize=42&fontColor=ffffff&fontAlignY=42&desc=Muhammad%20Yasir%20%7C%20Nest-Agent%20%7C%20May-2026&descAlignY=62&descSize=15&animation=fadeIn" width="100%"/>
 
 <br/>
 
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=+AI+%26+Automation+Internship+Portfolio; +6+Real-World+AI+Projects+Showcased; +JS-First+Architecture+%7C+Zero+Dependencies; +NEST-AGENT+Internship+·+2026" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=1000&color=00F0FF&center=true&vCenter=true&width=850&lines=AI+%26+Automation+Internship+Portfolio;6+Real+World+AI+Projects+Showcased;JS+First+Architecture+Zero+Dependencies;NEST-AGENT+Internship+2026" />
 
 <br/><br/>
 
