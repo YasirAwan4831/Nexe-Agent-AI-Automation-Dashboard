@@ -83,7 +83,7 @@ The project is also a technical statement in itself — the entire UI is generat
 
 | # | 🚀 Project | 🛠️ Tech Stack | 📁 Repo |
 |:--:|:--------|:-----------|:-------:|
-| `01` | **Basic AI Chatbot** — Multi-turn dialogue with context memory | Python · OpenAI API · Flask | [→ View](https://github.com/YasirAwan4831/yaris-ai-internship-chatbot) |
+| `01` | **Basic AI Chatbot** — Multi-turn dialogue with context memory | NodeJs · React · Gemini API · ExpressJS | [→ View](https://github.com/YasirAwan4831/yaris-ai-internship-chatbot) |
 | `02` | **Email Automation** — Gmail API with OAuth 2.0 scheduling | Python · Gmail API · OAuth 2.0 | [→ View](https://github.com/YasirAwan4831/ai-email-automation-python-internship) |
 | `03` | **Resume Scanner AI** — CV vs JD scoring with NLP | Python · NLP · OpenAI · PyPDF2 | [→ View](https://github.com/YasirAwan4831/resume-screener-ai-internship-project-three) |
 | `04` | **WhatsApp Automation** — Bulk messaging & scheduled replies | Python · Twilio · pywhatkit | [→ View](https://github.com/YasirAwan4831/whatsapp-automation-system-bot) |
